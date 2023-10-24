@@ -25,8 +25,7 @@ Faço Graduação de Tecnologia em Gestão da Produção Industrial na FATEC Jes
 
 <a name="projeto-1"></a>  <!-- comando para criar uma ancora para o sumário -->
 ## 1º Semestre • "semestre/ano" • "Nome do projeto" 
-> Descrever aqui um resumo do projeto.
-
+> Descrever aqui um resumo do projeto
 ### Requisitos do Projeto
 > Descrever aqui os requisitos exigidos para a conclusão do projeto.
 
