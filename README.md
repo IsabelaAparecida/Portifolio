@@ -17,7 +17,7 @@ Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado 
 ---
     
 # Resumo Pessoal
-> Olá meu nome é Isabela,nasci em Outubro de 1998 e moro na cidade de Caçapava-SP.
+Olá meu nome é Isabela,nasci em Outubro de 1998 e moro na cidade de Caçapava-SP.
 Faço Graduação de Tecnologia em Gestão da Produção Industrial na FATEC Jessen Vidal em São José dos Campos,possuo curso de Auxiliar de Produção no Senai e foi através desse curso que me interessei na aréa de Produção/Logistica. Há 2 anos trabalho na Nefab Embalagens LTDA, no setor de Produção e eu almejo me desenvolver na atual empresa e conquistar o cargo de Coordenadora da Produção da Nefab.
 > Colocar uma foto.
 <p style="text-align:center">
